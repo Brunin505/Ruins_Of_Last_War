@@ -742,7 +742,6 @@ let end_game = {
 
   },
   update(){
-    this.placar.update_text(pts)
   },
 
   limpa_cena(){
